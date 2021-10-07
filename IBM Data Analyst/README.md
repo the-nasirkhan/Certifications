@@ -8,7 +8,7 @@ This course will help you to differentiate between the roles of a Data Analyst, 
 
 -Throughout this course you will learn the key aspects to data analysis. You will begin to explore the fundamentals of gathering data, and learning how to identify your data sources. You will then learn how to clean, analyze, and share your data with the use of visualizations and dashboard tools. This all comes together in the final project where it will test your knowledge of the course material, explore what it means to be a Data Analyst, and provide a real-world scenario of data analysis. 
 
-     -This course does not require any prior data analysis, spreadsheet, or computer science experience. All you need to get started is basic computer literacy, high school level math, and access to a modern web browser such as Chrome or Firefox.
+-This course does not require any prior data analysis, spreadsheet, or computer science experience. All you need to get started is basic computer literacy, high school level math, and access to a modern web browser such as Chrome or Firefox.
 <h2 align="left">2. Excel Basics for Data Analysis</h2>
 This course is designed to provide you with basic working knowledge for using Excel spreadsheets for Data Analysis. It covers some of the first steps for working with spreadsheets and their usage in the process of analyzing data.  It includes plenty of videos, demos, and examples for you to learn, followed by step-by-step instructions for you to apply and practice on a live spreadsheet.
 
